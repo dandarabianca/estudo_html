@@ -1,3 +1,3 @@
 # estudo_html
 
-## Projeto para estudo de hmtml
+## Projeto para estudo de html
